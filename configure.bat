@@ -1,0 +1,1 @@
+echo "configured the build : %date% : %time% " 
